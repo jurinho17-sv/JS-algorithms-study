@@ -1,2 +1,3 @@
-# JS-algorithms-study
-My learning journey with JavaScript algorithms and data structures
+# JavaScript Algorithms & Data Structures Study
+
+Personal notes and practice while learning JavaScript algorithms and data structures.
