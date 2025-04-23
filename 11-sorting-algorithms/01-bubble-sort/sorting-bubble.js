@@ -1,8 +1,6 @@
 /**
  * Ju Ho Kim
- * Date: 
- * 
- * Problem:
+ * Date: Apr 22nd 2025
  * 
  * Time Complexity: O(n^2) >> nested loops
  * 
