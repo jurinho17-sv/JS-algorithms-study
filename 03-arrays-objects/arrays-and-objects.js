@@ -1,7 +1,6 @@
 /**
  * Ju Ho Kim
  * Date: Apr 17th 2025
- * 
  * Topic: Arrays and Objects in JS
  */
 

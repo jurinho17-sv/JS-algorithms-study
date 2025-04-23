@@ -8,8 +8,10 @@
  * If the value does not exist in the array, return -1.
  * Don't use indexOf to implement this function!
  * 
+ * Time Complexity: O(n)
  */
 
+// Linear Search
 // Solution
 function linearSearch(arr, val) {
     // Loop through each element in the array
@@ -23,3 +25,5 @@ function linearSearch(arr, val) {
     // If we finish the loop without finding the value, it doesn't exist in the array
     return -1;
   }
+
+  linearSearch([34, 56, 1, 2], 1)

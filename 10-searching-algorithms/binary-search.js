@@ -48,7 +48,7 @@ function binarySearch(arr, val) {
       }
     }
     
-    // If we've exited the loop without finding the value, it doesn't exist in the array
+    // If the loop exited without finding the value, it doesn't exist in the array
     return -1;
   }
 

@@ -1,4 +1,4 @@
-// // Non-recursive way
+// // 1. Non-recursive way
 //
 // function factorial(num) {
 //     let total = 1;
@@ -9,7 +9,7 @@
 // }
 // factorial(4)
 
-// Recursive way
+// 2. Recursive way
 function factorial(num) {
     if (num === 1) return 1;
     return num * factorial(num - 1);
